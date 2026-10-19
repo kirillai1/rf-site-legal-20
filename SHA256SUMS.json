@@ -1,0 +1,13 @@
+{
+  "algorithm": "SHA-256",
+  "files": {
+    "INSTALL.md": "351358d5c9b4d3d9491556ad417044f12acf9d0be2bd5bd6bffb4d08b3fa5bed",
+    "install.py": "deab8f4091710025d1bcc762e52665bc69dff7cf1e2b6abd5136ba510a223c27",
+    "rf-site-legal-20/agents/openai.yaml": "806e7c8e73efdfe2891c29ab44fe8b2b65f36a5fe96dfe8379e7b17e6826743d",
+    "rf-site-legal-20/references/checklist-20.md": "f7ab7231992bc58fe912e5e1f1defbd315e9a459214610387632a0e5bed10383",
+    "rf-site-legal-20/references/current-law.md": "b745f083b46fbbd84688b02e99e6677fddb4847c93e5c0a3975e3c379e136a4a",
+    "rf-site-legal-20/references/design-and-verification.md": "1417744e78badca5fd2e5753c99053b7806f32826eae518e5a7dfc4ec39e6827",
+    "rf-site-legal-20/references/report-template.md": "cd6e60dfc333d994582bb03f9f7a23adaf47cb2b2bda19648c7304cffca3e22c",
+    "rf-site-legal-20/SKILL.md": "b49e393557873486822349972cfd02b345fe04084bf8568b55b74fd20321a602"
+  }
+}
